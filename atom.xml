@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Fish&#39;s Blog</title>
-  
+  <title>Dive Deeper</title>
+  <subtitle>Fish&#39;s Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.codingfish.cc/"/>
-  <updated>2017-03-17T12:58:50.000Z</updated>
+  <updated>2017-04-01T10:33:46.000Z</updated>
   <id>http://blog.codingfish.cc/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>你又等了好久外卖吗</title>
-    <link href="http://blog.codingfish.cc/2017/01/13/waiting-init/"/>
-    <id>http://blog.codingfish.cc/2017/01/13/waiting-init/</id>
-    <published>2017-01-13T09:38:55.000Z</published>
-    <updated>2017-03-17T12:58:50.000Z</updated>
+    <link href="http://blog.codingfish.cc/2017/03/17/waiting-init/"/>
+    <id>http://blog.codingfish.cc/2017/03/17/waiting-init/</id>
+    <published>2017-03-17T15:13:00.000Z</published>
+    <updated>2017-04-01T10:33:46.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h3><p>这种情况发生了无数次：我接到外卖小哥的电话说外卖已经到楼下了，然后我就下楼了，然后我等了好久好久外卖小哥才到。但是看在他一路风尘仆仆的样子我又不好意思说他，只能每次都自认倒霉。</p>
 <p>直到有一次我刚洗完澡穿着短裤短袖在寒风中等了好久，终于受不了了：我不知道有多少人和我一样属于那种“不好意思麻烦别人”、“看到别人等自己就会觉得特别不好意思”的性格，但是这不是一直让我等别人的理由呀！我知道外卖小哥想节省时间所以提前打电话，但是这样严重浪费了我们的时间。</p>
@@ -46,6 +46,10 @@
       &lt;h3 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h3&gt;&lt;p&gt;这种情况发生了无数次：我接到外卖小哥的电话说外卖已经到楼下了，然后我就下楼了，然后我等了好久好久外卖小哥才到。但是看在他一路风尘仆仆的样子我
     
     </summary>
+    
+      <category term="Wechat" scheme="http://blog.codingfish.cc/categories/Wechat/"/>
+    
+      <category term="Waiting" scheme="http://blog.codingfish.cc/categories/Wechat/Waiting/"/>
     
     
   </entry>
